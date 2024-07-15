@@ -1,0 +1,8 @@
+# Default ignored files
+/../../smart-alcohol-management_FastAPI /.idea/shelf/
+/../../smart-alcohol-management_FastAPI /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../smart-alcohol-management_FastAPI /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../smart-alcohol-management_FastAPI /.idea/dataSources/
+/../../smart-alcohol-management_FastAPI /.idea/dataSources.local.xml
